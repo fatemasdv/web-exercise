@@ -3,6 +3,8 @@ title: About Me
 theme: jekyll-theme-cayman
 ---
 
+[Home](index.md) | [Lessons](lessons.md) | [About Me](about.md)
+
 # **About Me**
 
 Hello! My name is **Fatema Akter**, and this GitHub Pages site is part of my web-exercise assignment.
