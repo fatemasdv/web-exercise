@@ -3,6 +3,8 @@ title: Lessons
 theme: jekyll-theme-cayman
 ---
 
+[Home](index.md) | [Lessons](lessons.md) | [About Me](about.md)
+
 # **All Lessons Overview**
 
 This page shows all lessons in one place.
