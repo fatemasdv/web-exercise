@@ -43,9 +43,10 @@ _You **can** combine them_
 
 ### Lesson 9
 `This is inline code`
-### Lesson 10
-| Name   | Age | City     |
-|--------|-----|----------|
-| Fatema | 22  | Oulu     |
-| Aisha  | 20  | Helsinki |
 
+
+### Lesson 10
+| Name | Age | City |
+|------|-----|-------|
+| Fatema | 22 | Oulu |
+| Aisha | 20 | Helsinki |
