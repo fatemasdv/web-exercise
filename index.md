@@ -1,52 +1,88 @@
-## Fatema Akter web exercise
+---
+title: Home
+theme: jekyll-theme-cayman
+---
 
-### Lesson 1
+# **Fatema Akter – Web Exercise**
+
+Welcome to my GitHub Pages site for the Web Exercise assignment.  
+Use the menu below to explore different lessons and pages:
+
+- [Home](index.md)
+- [About Me](about.md)
+- [Lessons](lessons.md)
+
+---
+
+## **Lesson 1**
 This is a paragraph.
 
-### Lesson 2
-This is a paragraph.
+---
 
+## **Lesson 2**
+This is a paragraph.  
 This is another paragraph.
 
-### Lesson 3
-# Header one
-## Header two
+---
+
+## **Lesson 3 – Headings**
+### Header one
+### Header two
 ### Header three
 
-### Lesson 4
-*This text will be italic*
-_This will also be italic_
+---
 
-**This text will be bold**
-__This will also be bold__
+## **Lesson 4 – Text Styles**
+*Italic text*  
+_This is also italic_  
 
-_You **can** combine them_
+**Bold text**  
+__This is also bold__  
 
-### Lesson 5
-* Item 1  
-* Item 2  
-* Item 3  
+**_Combined bold and italic_**
 
+---
+
+## **Lesson 5 – Lists**
+
+### Unordered List
+- Item 1  
+- Item 2  
+- Item 3  
+
+### Ordered List
 1. Item 1  
 2. Item 2  
 3. Item 3  
 
-### Lesson 6
-[Visit GitHub!](https://github.com)
+---
 
-### Lesson 7
-![A cute kitten](https://placekitten.com/200/300)
+## **Lesson 6 – Links**
+[Visit GitHub](https://github.com/)
 
-### Lesson 8
-> This is a blockquote  
+---
+
+## **Lesson 7 – Images**
+![Cute kitten](https://placekitten.com/300/200)
+
+---
+
+## **Lesson 8 – Blockquote**
+> This is a blockquote.  
 > It can span multiple lines.
 
-### Lesson 9
-`This is inline code`
+---
 
+## **Lesson 9 – Inline Code**
+Here is inline code: `console.log("Hello World");`
 
-### Lesson 10
-| Name | Age | City |
-|------|-----|-------|
-| Fatema | 22 | Oulu |
-| Aisha | 20 | Helsinki |
+---
+
+## **Lesson 10 – Table**
+
+| Name  | Age | City     |
+|-------|-----|----------|
+| Fatema | 22  | Helsinki |
+| Aisha  | 20  | Helsinki |
+
+---
