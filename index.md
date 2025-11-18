@@ -3,6 +3,8 @@ title: Home
 theme: jekyll-theme-cayman
 ---
 
+[Home](index.md) | [Lessons](lessons.md) | [About Me](about.md)
+
 # **Fatema Akter – Web Exercise**
 
 Welcome to my GitHub Pages site for the Web Exercise assignment.  
@@ -86,3 +88,4 @@ Here is inline code: `console.log("Hello World");`
 | Aisha  | 20  | Helsinki |
 
 ---
+
